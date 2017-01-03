@@ -7,7 +7,7 @@ tags: [yoga, instruction, ethics]
 comments: true
 ---
 
-### The relationship between a student and teacher is a fragile, delicate one. 
+## The relationship between a student and teacher is a fragile, delicate one. 
 This is particularly true in the realm of yoga, where students can be frequently found in a vulnerable and open state and a teacher often assumes a position of power. Proper treatment of the student and of oneself as a teacher is extremely important. As such, a teacher must conduct themselves in such a way, both in the classroom and throughout the rest of their daily activities, so that they portray the “virtues” as laid forth by Patanjali. By embodying these virtues, students can grow physically, mentally, and spiritually under the careful tutelage of their teacher.
 
 The Yoga alliance provides an excellent set of guidelines to address this topic. The alliance expects the following from RYT, E-RYT, and RYS holders:
