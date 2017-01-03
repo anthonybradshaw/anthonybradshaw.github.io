@@ -2,7 +2,7 @@
 layout: post
 title: "Anatomy, Physiology, and Kinesiology in the Classroom"
 date: 2016-12-29
-excerpt: "In order to begin understanding how yoga can aid with mental function, it is important to notice that there are already known parallels between the acts that make up yoga and improved mental function."
+excerpt: "There is much to be gained from a better understanding of how and why our bodies function as they do."
 tags: [yoga, health, anatomy, physiology, kinesiology, instruction]
 comments: true
 ---
