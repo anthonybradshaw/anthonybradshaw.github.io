@@ -2,7 +2,7 @@
 layout: post
 title: "Anatomy, Physiology, and Kinesiology in the Classroom"
 date: 2016-12-29
-excerpt: "There is much to be gained from a better understanding of how and why our bodies function as they do."
+excerpt: "There is much to be gained from a better understanding of how and why our bodies function as they do. Read on to learn more about how your body affects your practice."
 tags: [yoga, health, anatomy, physiology, kinesiology, instruction]
 comments: true
 ---
