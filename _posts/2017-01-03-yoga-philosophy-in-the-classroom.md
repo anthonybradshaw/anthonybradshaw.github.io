@@ -10,7 +10,7 @@ comments: true
 
 ### “The success of yoga does not lie in the ability to perform postures, but in how it positively changes the way we live our life and our relationships.” -TKV Desikachar
 
-##### In order to practice Yogic philosophy, either inside or outside of class, one must first know what Yoga is. 
+#### In order to practice Yogic philosophy, either inside or outside of class, one must first know what Yoga is. 
 In this respect, I believe a scholarly approach is advantageous to a yogi who hopes to accelerate their practice. It has been said that all the answers are within us; that through self study and inner exploration we can find the solutions we need to become the persons we wish to be in the life. This is true, but it is also a biological, genetic fact that as humans we are built with the keen ability to observe and learn to an extent far beyond the abilities of other species we share this world with. Experiential wisdom has value, and while learning through doing is an undeniable, core part of the human experience, it also has its drawbacks. Experiential wisdom takes time, which is a very precious resource, and it sometimes carries the risk of failure. In the Yogic context, failure could mean a physical injury.
 
 Think of observing the movements, listening to the orations, or reading the written words of an experienced yogi as the act of observing and learning from their experiential wisdom. In this way you can safely accelerate your practice exponentially. Carry this mental framework with you going forward in your studies.
